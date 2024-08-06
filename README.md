@@ -1,4 +1,4 @@
-# 3niwebsite
+# 3niproject
 
 ## Project setup
 ```
